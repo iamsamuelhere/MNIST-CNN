@@ -1,5 +1,5 @@
 # MNIST-CNN
-This repo uses mnist dataset to predict numbers using cnn keras<br>
+This repo uses mnist dataset to predict numbers from 0-9 using cnn keras<br>
 <img src="https://github.com/iamsamuelhere/MNIST-CNN/blob/master/4.png" />
 <img src="https://github.com/iamsamuelhere/MNIST-CNN/blob/master/5.png" />
 <img src="https://github.com/iamsamuelhere/MNIST-CNN/blob/master/9.png" />
